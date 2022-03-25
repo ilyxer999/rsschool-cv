@@ -9,3 +9,7 @@
 ### About myself: ###
 - I study at Pacific State University
 - I want to learn Front-End Development
+### Code example: ###
+```
+alert('Hello world')
+```
