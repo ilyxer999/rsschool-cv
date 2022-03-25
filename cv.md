@@ -18,4 +18,7 @@ _I haven't work experience_
 ### Education and courses: ###
 - incomplete higher education
 - Basic Python course on Udemy
-- HTML and CSS free course on Youtube (Channel: Freelancer Life Style)
+- HTML and CSS free course on Youtube (Channel: [Freelancer Life Style](https://www.youtube.com/playlist?list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr))
+### Languages: ###
+- Russian - Native
+- English - Pre-intermediate
