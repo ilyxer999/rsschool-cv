@@ -14,4 +14,8 @@
 alert('Hello world')
 ```
 ### Work experience: ###
-_I haven't work experience
+_I haven't work experience_
+### Education and courses: ###
+- incomplete higher education
+- Basic Python course on Udemy
+- HTML and CSS free course on Youtube (Channel: Freelancer Life Style)
